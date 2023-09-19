@@ -33,16 +33,12 @@ The following **additional** features are implemented:
 
 
 
-https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/2d85a775-7624-42ee-9ee2-015e0835570e
-
 
 
 https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/9a5ee68d-953c-4ecf-835f-4e34a4885fa3
 
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 
 ## Notes
