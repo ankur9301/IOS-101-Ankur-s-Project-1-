@@ -27,10 +27,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+
 https://youtu.be/xAwYghLfYcY
 ![ezgif com-video-to-gif](https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/7be88a32-fa73-4ff6-949b-0031f66392b0)
 
 
+
+
+
+https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/9a5ee68d-953c-4ecf-835f-4e34a4885fa3
 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
