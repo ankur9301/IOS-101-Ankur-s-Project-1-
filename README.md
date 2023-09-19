@@ -29,9 +29,13 @@ The following **additional** features are implemented:
 
 
 https://youtu.be/xAwYghLfYcY
-![ezgif com-video-to-gif](https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/7be88a32-fa73-4ff6-949b-0031f66392b0)
 
 
+
+
+
+
+https://github.com/ankur9301/IOS-101-Ankur-s-Project-1-/assets/114321826/2d85a775-7624-42ee-9ee2-015e0835570e
 
 
 
